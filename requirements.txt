@@ -28,7 +28,7 @@ ipaddress==1.0.18
 iso8601==0.1.11
 isodate==0.5.4
 isoparser==0.3
-Jinja2==2.9.5
+Jinja2==2.11.3
 jmespath==0.9.2
 jsonpickle==0.9.4
 keyring==10.3.1
